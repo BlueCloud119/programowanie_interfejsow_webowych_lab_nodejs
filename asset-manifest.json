@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/programowanie_interfejsow_webowych_lab_nodejs/static/css/main.49cccc7c.chunk.css",
+    "main.js": "/programowanie_interfejsow_webowych_lab_nodejs/static/js/main.cf2979ca.chunk.js",
+    "main.js.map": "/programowanie_interfejsow_webowych_lab_nodejs/static/js/main.cf2979ca.chunk.js.map",
+    "runtime-main.js": "/programowanie_interfejsow_webowych_lab_nodejs/static/js/runtime-main.8ebfe801.js",
+    "runtime-main.js.map": "/programowanie_interfejsow_webowych_lab_nodejs/static/js/runtime-main.8ebfe801.js.map",
+    "static/js/2.2aee7a7f.chunk.js": "/programowanie_interfejsow_webowych_lab_nodejs/static/js/2.2aee7a7f.chunk.js",
+    "static/js/2.2aee7a7f.chunk.js.map": "/programowanie_interfejsow_webowych_lab_nodejs/static/js/2.2aee7a7f.chunk.js.map",
+    "index.html": "/programowanie_interfejsow_webowych_lab_nodejs/index.html",
+    "static/css/main.49cccc7c.chunk.css.map": "/programowanie_interfejsow_webowych_lab_nodejs/static/css/main.49cccc7c.chunk.css.map",
+    "static/js/2.2aee7a7f.chunk.js.LICENSE.txt": "/programowanie_interfejsow_webowych_lab_nodejs/static/js/2.2aee7a7f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ebfe801.js",
+    "static/js/2.2aee7a7f.chunk.js",
+    "static/css/main.49cccc7c.chunk.css",
+    "static/js/main.cf2979ca.chunk.js"
+  ]
+}
